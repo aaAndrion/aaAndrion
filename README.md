@@ -6,11 +6,11 @@ What to Expect:
 
 Project Showcase: Dive into an array of projects that showcase my skills, learning, and growth throughout my academic endeavors.
 
-Certificates: Explore the certificates I've acquired, demonstrating my dedication and proficiency in various areas of Information Systems.
+[Certificates]((https://github.com/aaAndrion/Certificates)):: Explore the certificates I've acquired, demonstrating my dedication and proficiency in various areas of Information Systems.
 
 Software Projects: Each software project has its dedicated repository, providing in-depth insights into the code, development process, and functionality.
 
-Other Projects: For paper-based projects and other non-software endeavors, you'll find them neatly organized in the "Other Projects" repository.
+[Other Projects](https://github.com/aaAndrion/Other-Projects): For paper-based projects and other non-software endeavors, you'll find them neatly organized in the "Other Projects" repository.
 
 Feel free to explore, collaborate, or reach out with any inquiries or feedback. Let's connect and explore the exciting world of Information Systems together! 🚀
 <!--
