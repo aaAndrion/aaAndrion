@@ -1,4 +1,4 @@
-Welcome to My GitHub Profile!
+## **Welcome to My GitHub Profile!**
 
 Greetings! I'm thrilled to have you here exploring my ePortfolio on GitHub. As an Information Systems undergraduate, this platform encapsulates the culmination of projects spanning my academic journey.
 
